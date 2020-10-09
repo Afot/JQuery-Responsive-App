@@ -26,7 +26,9 @@ body {
   float: left;
   margin: 4px;
 }
-
+.cut {
+  background-color: #DDD;
+}
 .item img {
   width: 100%;
 }
